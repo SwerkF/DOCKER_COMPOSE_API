@@ -1,0 +1,210 @@
+[{
+  "_id": {
+    "$oid": "67640424ea8b6a0875b92fd3"
+  },
+  "firstName": "John",
+  "lastName": "Doe",
+  "email": "john.doe@example.com",
+  "password": "$2b$10$AbEmNxtl4sFQ.Jswi9Qs6OazMzh2.C102VmGYXeU6dDiy8ACMfq76",
+  "role": "admin",
+  "services": [],
+  "permissions": [],
+  "createdAt": {
+    "$date": "2024-12-19T11:31:48.079Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-20T13:01:15.093Z"
+  },
+  "__v": 0,
+  "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3NjQwNDI0ZWE4YjZhMDg3NWI5MmZkMyIsImlhdCI6MTczNDY5OTY3NX0.pzfQJDFlYcMvo7RY5nemvb7yeRFgmrw9D-_LVNQn1ck"
+},
+{
+  "_id": {
+    "$oid": "6764229f5ebef79366aba74a"
+  },
+  "firstName": "Oliwer",
+  "lastName": "Skweres",
+  "email": "oliwer.skweres@example.com",
+  "password": "$2b$10$K.SH57Ik0HWt7Oc31CYJhONIJukv4xmTYUEl/FiGuFU2E0o38oT1W",
+  "role": "client",
+  "services": [],
+  "permissions": [],
+  "createdAt": {
+    "$date": "2024-12-19T13:41:51.152Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-19T13:41:51.152Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67654e49ac37246aaa89336f"
+  },
+  "firstName": "Kilian",
+  "lastName": "Trouet",
+  "email": "kilian.trouet@cashflowpositif.fr",
+  "password": "$2b$10$pr9u1IV5Js1OCJO6CYw0sOeL4U/65oG0Th.gMGfrzGEB1wiWpOuHK",
+  "role": "client",
+  "services": [],
+  "permissions": [],
+  "createdAt": {
+    "$date": "2024-12-20T11:00:25.454Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-20T11:00:25.454Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67654e59ac37246aaa893372"
+  },
+  "firstName": "Damien",
+  "lastName": "LORTIE THIBAUT",
+  "email": "damien.l@cashflowpositif.fr",
+  "password": "$2b$10$CyHo5SvvTsX4jXMkcZCnxOdDuOSl8jTa3XCR3qHh8ZSubP/tTAtcq",
+  "role": "client",
+  "services": [],
+  "permissions": [],
+  "createdAt": {
+    "$date": "2024-12-20T11:00:41.747Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-20T11:00:41.747Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67654e6fac37246aaa893375"
+  },
+  "firstName": "Pablo",
+  "lastName": "DUPUIS",
+  "email": "pablo.d@ecole-ipssi.fr",
+  "password": "$2b$10$NKYb4JLKly8sStjrgbv2TeTb1ehKledlnXegI4tWYXAVudherlmVK",
+  "role": "client",
+  "services": [],
+  "permissions": [],
+  "createdAt": {
+    "$date": "2024-12-20T11:01:03.136Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-20T11:01:03.136Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67654e7dac37246aaa893378"
+  },
+  "firstName": "Eddy",
+  "lastName": "TERROSIER",
+  "email": "eddy.t@ecole-ipssi.fr",
+  "password": "$2b$10$1lNFrbn7n3tcQkTZQMPOs.gXLfkOmcFFviiiWQpm0BpeclQQDHqJK",
+  "role": "client",
+  "services": [],
+  "permissions": [],
+  "createdAt": {
+    "$date": "2024-12-20T11:01:17.061Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-20T11:01:17.061Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67654e8dac37246aaa89337b"
+  },
+  "firstName": "Carole",
+  "lastName": "TINGNOKPA",
+  "email": "carole.t@ecole-ipssi.fr",
+  "password": "$2b$10$1MBBvfW/jaMAcI7/XBQV4.XsL9MXV/2j2OMHMSS.Vrj/uhjotbZU.",
+  "role": "client",
+  "services": [],
+  "permissions": [],
+  "createdAt": {
+    "$date": "2024-12-20T11:01:33.140Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-20T11:01:33.140Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67654e9dac37246aaa89337e"
+  },
+  "firstName": "Samuel",
+  "lastName": "TOMEN NANA",
+  "email": "samuel.t@ecole-ipssi.fr",
+  "password": "$2b$10$zlFOxwYPoi6C5mSOlTT.S.MgqKDkMzv61XzeR8o.in70KxNixFWnu",
+  "role": "client",
+  "services": [],
+  "permissions": [],
+  "createdAt": {
+    "$date": "2024-12-20T11:01:49.119Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-20T11:01:49.119Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67654eabac37246aaa893381"
+  },
+  "firstName": "Julien",
+  "lastName": "BINET",
+  "email": "julien.b@ecole-ipssi.fr",
+  "password": "$2b$10$jGmd5RKwW0nSgs1Pyqrv.Ob1/9QdXu95ltpUhJKFIzxdBWG7e9FeC",
+  "role": "client",
+  "services": [],
+  "permissions": [],
+  "createdAt": {
+    "$date": "2024-12-20T11:02:03.983Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-20T11:02:03.983Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67654ebcac37246aaa893384"
+  },
+  "firstName": "Mattis",
+  "lastName": "Angers",
+  "email": "mattis.a@ecole-ipssi.fr",
+  "password": "$2b$10$AaKnWXP/aPkdKgtQyLZ4LeOlkWNpRutAY5bcHfzO4GXoNGWgdO0m2",
+  "role": "client",
+  "services": [],
+  "permissions": [],
+  "createdAt": {
+    "$date": "2024-12-20T11:02:20.646Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-20T11:02:20.646Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67654ecbac37246aaa893387"
+  },
+  "firstName": "Carles",
+  "lastName": "BOURGES",
+  "email": "carles.b@ecole-ipssi.fr",
+  "password": "$2b$10$aSh0oUu2L.VPGBPdih03xu0tvBoh3KDJib1FV2VE1pgoAqqrOndTO",
+  "role": "client",
+  "services": [],
+  "permissions": [],
+  "createdAt": {
+    "$date": "2024-12-20T11:02:35.877Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-20T11:02:35.877Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "67654d5fac37246aaa893365"
+  },
+  "name": "Coupe Homme",
+  "description": "Coupe avec shampoing",
+  "duration": 30,
+  "price": 25,
+  "isActive": true,
+  "users": [],
+  "createdAt": {
+    "$date": "2024-12-20T10:56:31.879Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-20T10:56:31.879Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67654d6fac37246aaa893367"
+  },
+  "name": "Coupe Femme",
+  "description": "Coupe avec shampoing",
+  "duration": 40,
+  "price": 35,
+  "isActive": true,
+  "users": [],
+  "createdAt": {
+    "$date": "2024-12-20T10:56:47.220Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-20T10:56:47.220Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67654d94ac37246aaa893369"
+  },
+  "name": "Permanente + Violine",
+  "description": "Permanente avec violine",
+  "duration": 70,
+  "price": 55,
+  "isActive": true,
+  "users": [],
+  "createdAt": {
+    "$date": "2024-12-20T10:57:24.207Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-20T10:57:24.207Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67654dbbac37246aaa89336b"
+  },
+  "name": "Les contours 🔥🔥 ",
+  "description": "Dégradé 🔥🔥",
+  "duration": 10,
+  "price": 10,
+  "isActive": true,
+  "users": [],
+  "createdAt": {
+    "$date": "2024-12-20T10:58:03.708Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-20T10:58:03.708Z"
+  },
+  "__v": 0
+}]
